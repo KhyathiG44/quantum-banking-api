@@ -1,6 +1,10 @@
+Set-Content -Path "C:\Users\talag\q_bank_api\requirements.txt" -Value @"
 fastapi
 uvicorn
 joblib
 scikit-learn==1.6.1
 numpy
 pydantic
+kyber-py
+dilithium-py
+"@
