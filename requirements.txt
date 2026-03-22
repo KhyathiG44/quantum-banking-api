@@ -1,4 +1,3 @@
-Set-Content -Path "C:\Users\talag\q_bank_api\requirements.txt" -Value @"
 fastapi
 uvicorn
 joblib
@@ -7,4 +6,3 @@ numpy
 pydantic
 kyber-py
 dilithium-py
-"@
